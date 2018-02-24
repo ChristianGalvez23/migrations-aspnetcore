@@ -1,0 +1,10 @@
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\bin\Debug\netcoreapp2.0\migrations-example.deps.json
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\bin\Debug\netcoreapp2.0\migrations-example.runtimeconfig.json
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\bin\Debug\netcoreapp2.0\migrations-example.runtimeconfig.dev.json
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\bin\Debug\netcoreapp2.0\migrations-example.dll
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\bin\Debug\netcoreapp2.0\migrations-example.pdb
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\obj\Debug\netcoreapp2.0\migrations-example.csproj.CoreCompileInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\obj\Debug\netcoreapp2.0\migrations-example.AssemblyInfoInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\obj\Debug\netcoreapp2.0\migrations-example.AssemblyInfo.cs
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\obj\Debug\netcoreapp2.0\migrations-example.dll
+C:\Users\cgalv\Documents\Personal\Projects\migrations-example\obj\Debug\netcoreapp2.0\migrations-example.pdb
